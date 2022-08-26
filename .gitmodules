@@ -1,9 +1,9 @@
 [submodule "fairseq"]
-	path = fairseq
+	# path = fairseq
 	url = https://github.com/ksudoh/fairseq.git
 [submodule "SimulEval"]
-	path = SimulEval
+	# path = SimulEval
 	url = https://github.com/ksudoh/SimulEval.git
 [submodule "fairseq-mma-il/fairseq"]
-	path = fairseq-mma-il/fairseq
+	# path = fairseq-mma-il/fairseq
 	url = https://github.com/pytorch/fairseq.git
